@@ -2,10 +2,5 @@
   
 ### Current command
 ```sh-session
-006.Prompt.file.read
-```
-
-### File
-```sh-session
-https://raw.githubusercontent.com/Cyncus/Project-006/main/Main/files/text.txt
+006.Prompt.text="LOL"
 ```

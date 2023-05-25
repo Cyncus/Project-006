@@ -7,5 +7,5 @@
 
 ### file
 ```sh-session
-[file.path](https://raw.githubusercontent.com/Cyncus/Project-006/main/Main/files/text.txt)
+https://raw.githubusercontent.com/Cyncus/Project-006/main/Main/files/text.txt
 ```

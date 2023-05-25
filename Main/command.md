@@ -5,7 +5,7 @@
 006.Prompt.file.read
 ```
 
-### file
+### File
 ```sh-session
 https://raw.githubusercontent.com/Cyncus/Project-006/main/Main/files/text.txt
 ```
